@@ -1,5 +1,6 @@
-This project delivers a complete data analysis and reporting solution for credit card operations using SQL, Excel, and Power BI.
-It focuses on understanding customer spending patterns, card usage behaviour, and financial performance metrics through data-driven dashboards and reports.
+Project Objective:
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
 
 ⚙️ How to Use
 
